@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{20102178-E493-448D-B033-9DC2F40B6B3D}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ControlWeb", "http://localhost:49411", "{1761A7F6-D33B-4606-8F6D-B3E986D595E8}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{20102178-e493-448d-b033-9dc2f40b6b3d}|Biblioteca.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49411"
+		Debug.AspNetCompiler.PhysicalPath = "ControlWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49411\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49411"
+		Release.AspNetCompiler.PhysicalPath = "ControlWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49411\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "ControlWeb\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20102178-E493-448D-B033-9DC2F40B6B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20102178-E493-448D-B033-9DC2F40B6B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20102178-E493-448D-B033-9DC2F40B6B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20102178-E493-448D-B033-9DC2F40B6B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1761A7F6-D33B-4606-8F6D-B3E986D595E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1761A7F6-D33B-4606-8F6D-B3E986D595E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1761A7F6-D33B-4606-8F6D-B3E986D595E8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1761A7F6-D33B-4606-8F6D-B3E986D595E8}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

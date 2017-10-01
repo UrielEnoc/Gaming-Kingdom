@@ -1,0 +1,5 @@
+C:\Users\Eru\Desktop\Proyecto.NET\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Eru\Desktop\Proyecto.NET\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Eru\Desktop\Proyecto.NET\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Eru\Desktop\Proyecto.NET\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Eru\Desktop\Proyecto.NET\Biblioteca\obj\Debug\Biblioteca.pdb
