@@ -10,6 +10,7 @@ namespace Biblioteca
     {
         pc=1,
         wii=2,
-        playstation=3
+        playstation=3,
+        okook=4
     }
 }
